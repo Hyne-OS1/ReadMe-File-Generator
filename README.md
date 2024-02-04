@@ -1,4 +1,4 @@
-*Casey's Markdown README Generator
+# Casey's Markdown README Generator
 by Casey Layne Hyne
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellowgreen.svg)
 
