@@ -20,10 +20,18 @@ by Casey Layne Hyne
 ![screenshot 4](https://github.com/Hyne-OS1/ReadMe-File-Generator/assets/146906218/467357e2-c4a8-4c4f-b1d7-ca99c2fbb521)
 
 ## Description
+The building of this project is based around the use of node.js with an added inquirer (npm 8.2.4). Under the loading of "node /index.js" in your pc's intergrated terminal the user will be able to fill out a questionnaire which will upon completion
+generate a README.md file with all the neccessary headings, content and corresponding licenses. ( Have attatched screenshots of code above ).
 
 ## Usage
+* Using this project is very straight forward and first time user friendly, ensure you have your Node.js installed along with the "inquirer i @8.2.4" before running the program in your intergrated terminal.
+* Open your intergrated terminal and perform your "node /index.js" this will run your index.js file and begin the README.md generator questionnaire.
+* Upon completing the questionnaire the "generateMarkdown.js" code will execute and your responses will be forwarded and formatted into a newly generated README.md file in the corresponding "create" folder which can be reviewed for any errors and/or additions before pushing up to your remote GitHub repository.
+* Both the "index.js" and "generateMarkdown.js" follow the exact same semantic coding structure for easy user interactability. A comprehensible coding structure also allows other developers an easier understanding of how the code interacts with one another which can be used for future use and/or revision.
+* (Video walkthrough to expand on usage and coding structure attatched upon submission)
 
 ## Requirements
+* inquirer i @8.2.4
 
 ## Contact-Me
 * Name - Casey Layne Hyne
