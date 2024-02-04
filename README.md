@@ -8,6 +8,7 @@ by Casey Layne Hyne
 * [Requirements](#requirements)
 * [Contact-Me](#contact-me)
 * [Contributors](#contributors)
+* [License](#license)
 
 ## Related Screenshots 
 ![screenshot 1](https://github.com/Hyne-OS1/ReadMe-File-Generator/assets/146906218/aa4dc933-b249-46aa-99db-ac9e593ce120)
