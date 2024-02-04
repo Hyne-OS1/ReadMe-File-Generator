@@ -19,6 +19,10 @@ by Casey Layne Hyne
 
 ![Screenshot 5](https://github.com/Hyne-OS1/ReadMe-File-Generator/assets/146906218/4e620fc9-fbf9-4d95-9baa-73ca72548aa4)
 
+![Screenshot 6](https://github.com/Hyne-OS1/ReadMe-File-Generator/assets/146906218/e6f9d399-25ef-40bc-9abf-8952b0d532a5)
+
+![Screenshot 7](https://github.com/Hyne-OS1/ReadMe-File-Generator/assets/146906218/6833653a-f937-43ee-9e2e-f1bb8703f738)
+
 ![screenshot 4](https://github.com/Hyne-OS1/ReadMe-File-Generator/assets/146906218/467357e2-c4a8-4c4f-b1d7-ca99c2fbb521)
 
 ## Description
